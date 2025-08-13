@@ -10,8 +10,17 @@ public class OperadoresComposto {
         int n2 = entrada.nextInt();
         System.out.println("Operadores Compostos");
 
+        int soma = n1 += n2;
+        int sub = n1 -= n2;
+        int multi = n1 *= n2;
+        int div = n1 /= n2;
+        int mod = n1 %= n2;
 
-        
         System.out.println("Soma: " + soma);
+        System.out.println("Subtração: " + sub);
+        System.out.println("Multiplicação: " + multi);
+        System.out.println("Divisão: " + div);
+        System.out.println("Módulo: " + mod);
+
     }
 }

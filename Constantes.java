@@ -6,7 +6,7 @@ representa a velocidade da luz no vácuo. Tente alterar o valor da constante e o
 comportamento do compilador.
          */
 
-         final double velocidadeLuz=  299.792548;
+         final double velocidadeLuz=   299.792548;
          velocidadeluz= 0;
          
          /*SOLUÇÃO 
