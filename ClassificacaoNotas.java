@@ -6,9 +6,9 @@ public class ClassificacaoNotas {
         double nota =  entrada.nextDouble();
 
         if(nota >= 60){
-            System.out.println("VocÃª estÃ¡ aprovado!!");
+            System.out.println("Você está aprovado!!");
         }else{
-            System.out.println("VocÃª foi reprovado !!");
+            System.out.println("Você foi reprovado !!");
         }
 
     }

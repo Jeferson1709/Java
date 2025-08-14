@@ -10,10 +10,10 @@ public class ComparandoIdade {
     int idade2 = entrada.nextInt();
 
     if (idade1 > idade2) {
-        System.out.println("A primeira pessoa Ã© mais velha");
+        System.out.println("A primeira pessoa é mais velha");
 
         }else if (idade2 > idade1) {
-            System.out.println("A segunda peesoa Ã© mais velha!!");
+            System.out.println("A segunda peesoa é mais velha!!");
 
         }else {
             System.out.println("As duas pessoas tem a mesma idade");
