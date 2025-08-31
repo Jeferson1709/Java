@@ -7,7 +7,7 @@ comportamento do compilador.
          */
 
          final double velocidadeLuz=   299.792548;
-         velocidadeluz= 0;
+        //  velocidadeluz= 0;
          
          /*SOLUÇÃO 
          final double VELOCIDADE_DA_LUZ = 299792458; // em metros por
